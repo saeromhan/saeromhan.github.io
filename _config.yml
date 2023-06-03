@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Saerom blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Saerom"
+name                     : "Saerom."
 description              : "Hello."
 url                      :  "https://saeromhan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Saerom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**Hello!**"
+  location         : "Likealion"
   email            :
   links:
     - label: "Email"
